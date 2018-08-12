@@ -1,6 +1,6 @@
 # PRPN Analysis
 
-This repo contains the output files and analysis results reported in our paper **"Grammar Induction with Neural Language Models: An Unusual Replication"**[1], where we perform an in-depth analysis of the **Parsing Reading Predict Networks**[2].
+This repo contains the output files and analysis results reported in our paper **"Grammar Induction with Neural Language Models: An Unusual Replication"** [1], where we perform an in-depth analysis of the **Parsing Reading Predict Networks** [2].
 
 
 ### References
