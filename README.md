@@ -7,7 +7,7 @@ The parsed files are named in the following way:
 - parsed_{parsed-dataset}_{model-type}_{train-data}_{earlystop-criterion}.jsonl
 - Example: parsed_WSJ_PRPNUP_WSJFull_ESUP.jsonl
 
-We also share the pretrained model the provides the best F-1 score (PRPN-LM trained on AllNLI with language modeling objective) which can be downloaded [here](https://drive.google.com/file/d/1BHW9Gd1ackTVZfG3ZIXw5KupFRc8dvHH/view?usp=sharing).
+We also share the pretrained model that provides the best F-1 score (PRPN-LM trained on AllNLI with language modeling criterion) which can be downloaded [here](https://drive.google.com/file/d/1BHW9Gd1ackTVZfG3ZIXw5KupFRc8dvHH/view?usp=sharing).
 
 ### References
 [1] Phu Mon Htut, Kyunghyun Cho, Samuel R. Bowman. ***Grammar Induction with Neural Language Models: An Unusual Replication***. To appear in Proceedings of the EMNLP. 2018.
