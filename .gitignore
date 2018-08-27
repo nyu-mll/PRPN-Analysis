@@ -1,0 +1,7 @@
+.DS_Store
+models
+slurm*
+out_*.log
+*.pyc
+sb_*.sbatch
+__pycache__
