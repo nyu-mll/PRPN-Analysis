@@ -9,6 +9,11 @@ The parsed files are named in the following way:
 
 We also share the pretrained model that provides the best F-1 score (PRPN-LM trained on AllNLI with language modeling criterion) which can be downloaded [here](https://drive.google.com/file/d/1BHW9Gd1ackTVZfG3ZIXw5KupFRc8dvHH/view?usp=sharing).
 
+To produce parses using pretrained model:
+`python parse_data.py --data path_to_data --checkpoint path_to_model/model_lm.pt --seed 1111 --eval_data path_to_multinli/multinli_1.0_dev_matched.jsonl  --save_eval_path save_path/parsed_MNLI.jsonl`
+
+
+
 ### References
 [1] Phu Mon Htut, Kyunghyun Cho, Samuel R. Bowman. ***Grammar Induction with Neural Language Models: An Unusual Replication***. To appear in Proceedings of the EMNLP. 2018.
 
