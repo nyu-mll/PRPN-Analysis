@@ -1,6 +1,6 @@
 # PRPN Analysis
 
-This repo contains the output files and analysis results reported in the paper **"Grammar Induction with Neural Language Models: An Unusual Replication"** [1], where we perform an in-depth analysis of the **Parsing Reading Predict Networks** [2].
+This repo contains the output files and analysis results reported in the paper [**"Grammar Induction with Neural Language Models: An Unusual Replication"**](https://arxiv.org/abs/1808.10000) [1], where we perform an in-depth analysis of the **Parsing Reading Predict Networks** [2].
 
 The parsed files can be downloaded [here.](https://drive.google.com/file/d/1Zc6lgqyohCcNKlqp6gk_J0RMCbCS1gHR/view?usp=sharing)
 The parsed files are named in the following way:
@@ -15,7 +15,7 @@ To produce parses using pretrained model:
 
 
 ### References
-[1] Phu Mon Htut, Kyunghyun Cho, Samuel R. Bowman. ***Grammar Induction with Neural Language Models: An Unusual Replication***. To appear in Proceedings of the EMNLP. 2018.
+[1] Phu Mon Htut, Kyunghyun Cho, Samuel R. Bowman. [***Grammar Induction with Neural Language Models: An Unusual Replication***](https://arxiv.org/abs/1808.10000). To appear in Proceedings of the EMNLP. 2018.
 
 [2] Yikang Shen, Zhouhan Lin, Chin wei Huang, and Aaron Courville. [***Neural language modeling by jointly learning syntax and lexicon***](https://arxiv.org/abs/1711.02013). Proceedings  International Conference on Learning Representations. 2018. [[code](https://github.com/yikangshen/PRPN)]
 
